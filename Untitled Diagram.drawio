@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1964" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -614,6 +614,34 @@
         </mxCell>
         <mxCell id="TRulJpKkkM7KHtW8X2Nn-16" value="They are responsible&lt;div&gt;for mapping out the&lt;/div&gt;&lt;div&gt;&amp;nbsp;steps involved in a business&lt;/div&gt;&lt;div&gt;process, identifying potential&amp;nbsp;&lt;/div&gt;&lt;div&gt;areas of improvement and&amp;nbsp;&lt;/div&gt;&lt;div&gt;designing new, more efficient&amp;nbsp;&lt;/div&gt;&lt;div&gt;workflows using process flows&lt;/div&gt;&lt;div&gt;diagrams&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="320" width="150" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Z9kGIj6v45gZuGTIKM2T" name="Page-6">
+    <mxGraphModel dx="778" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nO6zIup5KbtqSBaVrFrW-1" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="100" width="480" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="nO6zIup5KbtqSBaVrFrW-2" value="Lane 1" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="nO6zIup5KbtqSBaVrFrW-1">
+          <mxGeometry y="20" width="480" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nO6zIup5KbtqSBaVrFrW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nO6zIup5KbtqSBaVrFrW-2" source="nO6zIup5KbtqSBaVrFrW-5" target="nO6zIup5KbtqSBaVrFrW-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="70" />
+              <mxPoint x="90" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nO6zIup5KbtqSBaVrFrW-5" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="nO6zIup5KbtqSBaVrFrW-2">
+          <mxGeometry x="70" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nO6zIup5KbtqSBaVrFrW-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nO6zIup5KbtqSBaVrFrW-2">
+          <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
